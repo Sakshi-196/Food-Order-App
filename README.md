@@ -1,6 +1,6 @@
 # Food-Order-App
 
-<img width="1437" alt="Screenshot 2023-07-12 at 3 28 08 PM" src="https://github.com/S-196/Repo/assets/94747201/7c97ec58-61fc-45e2-97f1-6621271fd75d">
+<img width="1437" alt="Screenshot 2023-07-12 at 3 51 36 PM" src="https://github.com/Sakshi-196/Food-Order-App/assets/117597225/4318a50a-8c64-4517-8974-ad874b74171f">
 
 ### Live - https://m-y-meals.netlify.app/
 
